@@ -1,4 +1,4 @@
-# HR Dashboard Overview
+# HR Dashboard Analysis
 
 ## Project Description
 This HR Dashboard provides a comprehensive overview of various human resource metrics across an organization. It is designed to help HR professionals and management quickly gain insights into workforce demographics, department performance, employee status, income distribution, and more. The dashboard is interactive, allowing users to filter data by various categories such as gender, status, location, and year of hire.
@@ -63,6 +63,10 @@ The dashboard is divided into sections that can be interacted with:
 ![HR Dashboard 2](https://github.com/user-attachments/assets/8fa9ad2d-1aab-4c44-a150-dba7b8fb3f52)
 
 ![HR Details](https://github.com/user-attachments/assets/db884aae-a29a-459c-a537-5fb6f3954f2c)
+
+## Tableau Project Link
+
+[HR Dashboard Analysis](https://public.tableau.com/views/HRDashboard_17246967238830/HRDetails?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Contact Information
 For further assistance or queries regarding this dashboard, please contact [kaushalchawale45@gmail.com]. 
