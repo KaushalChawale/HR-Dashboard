@@ -66,7 +66,7 @@ The dashboard is divided into sections that can be interacted with:
 
 ## Tableau Project Link
 
-[HR Dashboard Analysis](https://public.tableau.com/views/HRDashboard_17246967238830/HRDetails?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[HR Dashboard Analysis](https://public.tableau.com/views/HRDashboard_17246967238830/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Contact Information
 For further assistance or queries regarding this dashboard, please contact [kaushalchawale45@gmail.com]. 
